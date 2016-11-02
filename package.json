@@ -21,7 +21,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "grunt travis --verbose"
+    "test": "grunt travis --verbose && echo hello"
   },
   "repository": {
     "type": "git",
